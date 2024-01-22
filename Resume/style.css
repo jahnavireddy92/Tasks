@@ -4,9 +4,8 @@
   }
   .head-right{
     text-align:right;
-    googlevertical-align:top;
-    padding-right:40px;
-  }
+    vertical-align:top;
+}
   
   body{
     padding-left:40px;
